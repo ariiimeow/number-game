@@ -1,3 +1,5 @@
+# This is a test comment to check Git change detection
+
 #!/bin/bash
 
 PSQL="psql -X --username=freecodecamp --dbname=number_guess --tuples-only -c"
